@@ -11,3 +11,10 @@ We started with a portable class library developed in C# that allows to access t
 Use Embeddinator-4000 to generates the necessary glue to surface the .NET API as a native API.
 
 ![The final result](images/Embeddinator.gif)
+
+## More samples!
+
+If you've been wanting more, I recommend accessing these [samples](https://github.com/jamesmontemagno/embeddinator-weather) about Embeddinator-4000 by James Montemagno.
+
+## Copyright and license
+Code released under the [MIT license](https://opensource.org/licenses/MIT).
